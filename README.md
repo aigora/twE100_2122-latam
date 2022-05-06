@@ -1,11 +1,15 @@
 # [Título del trabajo]
-
-[Descripción breve del proyecto a realizar (2-3 frases).]
+LATAM
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Pedro Olmo
+Oscar Montes 
+Regina Gomez
+Javier
+
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+El scape room que vamos a programar se va a basar en la historia de un detective que han atrapado unos narcos colombianos, y debera ir superando las distintas
+pruebas propuestas para escapar del pais y asi huir de Latinoamerica y estar a salvo.
