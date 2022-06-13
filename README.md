@@ -1,12 +1,11 @@
-# [Título del trabajo]
+# [LATAM]
 LATAM
 
 ## Integrantes del equipo
 
 Pedro Olmo
-Oscar Montes 
 Regina Gomez
-Javier
+Javier Mengs González
 
 
 ## Objetivos del trabajo
