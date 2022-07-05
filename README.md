@@ -3,7 +3,7 @@ LATAM
 
 ## Integrantes del equipo
 
-Pedro Olmo
+
 Regina Gomez
 Javier Mengs González
 
