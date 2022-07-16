@@ -32,7 +32,7 @@ registro= fopen ("usuarios.txt", "r");
 	scanf ("%d", &elegir);
 	switch (elegir)
 	{
-    case 1:
+	    case 1:
         do {
             printf ("Nombre de usuario.\n");
             scanf ("%s", usuario1);
@@ -46,7 +46,7 @@ registro= fopen ("usuarios.txt", "r");
 
 	}while (strcmp(usuarios[i].usuario, usuario1) == 0);
 if (strcmp(usuarios[i].usuario, usuario1) != 0) {
-
+				    //nUsuarios++;
 					strcpy(usuarios[num].usuario, usuario1);
 			}
             fflush(stdin);
@@ -58,10 +58,7 @@ if (strcmp(usuarios[i].usuario, usuario1) != 0) {
 			printf("Contrasena\n");
 				gets(usuarios[num].contrasena);
 				num++;
-				printf("REGISTRO REALIZADO CON ÉXITO\n");
-				latam();
-
-
+				printf("REGISTRO REALIZADO CON Ã‰XITO\n");
 			printf("\n");
     FILE *registro;
     		registro = fopen("usuarios.txt", "w");
@@ -72,6 +69,7 @@ if (strcmp(usuarios[i].usuario, usuario1) != 0) {
     		fclose(registro);
 
     		fflush(stdin);
+
     case 2:
         do{
         correcto=0;
@@ -85,7 +83,7 @@ if (strcmp(usuarios[i].usuario, usuario1) != 0) {
 				printf("\n");
 				for (i = 0; i < num; i++) {
 					if (strcmp(usuarios[i].usuario, usuario2) == 0 && strcmp(usuarios[i].contrasena, contra) == 0) {
-						printf("USUARIO Y CONTRASEÑA CORRECTO\n sesion iniciada con exito\n");
+						printf("USUARIO Y CONTRASEÃ‘A CORRECTO\n sesion iniciada con exito\n");
 						correcto = 1;
 						latam();
 
@@ -93,7 +91,7 @@ if (strcmp(usuarios[i].usuario, usuario1) != 0) {
 					}
 				}
 				if (correcto == 0) {
-						printf("USUARIO O CONTRASEÑA INCORRECTOn");
+						printf("USUARIO O CONTRASEÃ‘A INCORRECTOn");
 					}
 			} while (strcmp(usuarios[i].usuario, usuario2) != 0 || strcmp(usuarios[i].contrasena, contra) != 0);
 
