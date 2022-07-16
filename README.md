@@ -5,7 +5,7 @@ LATAM
 
 
 Regina Gomez
-Javier Mengs González
+
 
 
 ## Objetivos del trabajo
