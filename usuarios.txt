@@ -1,0 +1,7 @@
+usuario nombre apellido contrasena
+regomez regina gomez etsidi
+jesgomez jesus navarro pollito
+beagar bea garcia lacaba
+regi regina gonzalez infor
+germancito german gomez padre
+sofi sofiqa gomez prima
