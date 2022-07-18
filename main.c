@@ -60,6 +60,7 @@ if (strcmp(usuarios[i].usuario, usuario1) != 0) {
 				num++;
 				printf("REGISTRO REALIZADO CON ÉXITO\n");
 			printf("\n");
+
     FILE *registro;
     		registro = fopen("usuarios.txt", "w");
 
@@ -69,6 +70,9 @@ if (strcmp(usuarios[i].usuario, usuario1) != 0) {
     		fclose(registro);
 
     		fflush(stdin);
+    		latam();
+
+						break;
 
     case 2:
         do{
